@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bounce-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/bounce-app/static/js/main.6b581249.chunk.js",
+    "main.js.map": "/bounce-app/static/js/main.6b581249.chunk.js.map",
+    "runtime-main.js": "/bounce-app/static/js/runtime-main.d7084e36.js",
+    "runtime-main.js.map": "/bounce-app/static/js/runtime-main.d7084e36.js.map",
+    "static/js/2.5eae40f9.chunk.js": "/bounce-app/static/js/2.5eae40f9.chunk.js",
+    "static/js/2.5eae40f9.chunk.js.map": "/bounce-app/static/js/2.5eae40f9.chunk.js.map",
+    "static/js/3.b1853685.chunk.js": "/bounce-app/static/js/3.b1853685.chunk.js",
+    "static/js/3.b1853685.chunk.js.map": "/bounce-app/static/js/3.b1853685.chunk.js.map",
+    "index.html": "/bounce-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/bounce-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5eae40f9.chunk.js.LICENSE.txt": "/bounce-app/static/js/2.5eae40f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7084e36.js",
+    "static/js/2.5eae40f9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6b581249.chunk.js"
+  ]
+}
